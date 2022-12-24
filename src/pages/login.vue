@@ -1,4 +1,4 @@
 <template lang="pug">
 div
-  h1 Login
+  Typography(variants="h4") ログイン
 </template>
