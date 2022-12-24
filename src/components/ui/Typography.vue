@@ -44,7 +44,6 @@
       default:
         return 'normal'
     }
-  })
 </script>
 
 <template>
