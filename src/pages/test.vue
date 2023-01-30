@@ -1,3 +1,3 @@
 <template lang="pug">
-h1 test
+h1 this is test
 </template>
